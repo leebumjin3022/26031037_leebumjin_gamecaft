@@ -1,0 +1,26 @@
+namespace dicefight;
+// 능력치 공식 외에는 조정 가능한 임시 값. 거리 단위는 논리 화면 px.
+public static class GameBalance
+{
+    public const int Width = 1200, Height = 720; // 논리 화면 px
+    public const float Floor = 600, Left = 45, Right = 1155; // 바닥 y / 몸 중심 이동 한계 px
+    public const float BodyWidth = 64, BodyHeight = 154; // 공통 피격/충돌 상자 px
+    public const float MoveSpeed = 280; // px/s
+    public const float JumpSpeed = 840, Gravity = 1800; // 위쪽 초기속도 px/s, 중력 px/s²
+    public const float Reach = 100, AttackThickness = 38; // 몸 앞 추가 사거리 / 영역 두께 px
+    public static float AttackOffset(AttackHeight height) => height switch
+    { AttackHeight.High => 130, AttackHeight.Middle => 82, _ => 27 }; // 발에서 위쪽 px
+    public const double Startup = .15, Active = .10, Recovery = .30; // 준비/유효/후딜 초
+    public const double ClashWindow = .09; // 공격 시작 시각 차이 허용 초 (준비 시간 이내 권장)
+    public const float KnockbackSpeed = 340, KnockbackDecay = 1100; // 초기속도 px/s, 감속 px/s²
+    public const double HitStun = .24; // 피격 행동 불가 초
+    public const double DiceDuration = 1.1, Countdown = 3; // 연출/시작 대기 초
+    public const double Step = 1.0 / 120, MaxElapsed = .1; // 물리 간격 / 긴 멈춤 최대 누적 초
+    public static readonly bool CancelAttackOnHit = true; // 임시 정책
+    public static readonly bool SimultaneousDifferentHeightTrades = true; // 같은 물리 틱 시작이면 양측 피해
+    public static readonly bool DoubleKnockoutIsDraw = true; // false면 동시 KO 시 최대 체력이 높은 쪽 승리 (동률 무승부)
+    public static int AttackStat(int first, int second) => first * second;
+    public static int HealthStat(int first, int second) => first * second * 2;
+}
+
+

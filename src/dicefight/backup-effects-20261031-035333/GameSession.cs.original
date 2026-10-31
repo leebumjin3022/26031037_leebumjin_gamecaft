@@ -1,0 +1,70 @@
+namespace dicefight;
+public enum Screen { Main, Dice, Countdown, Battle, Result }
+public sealed class GameSession
+{
+    private readonly Random random;
+    public GameSession(int? seed = null) { random = seed.HasValue ? new Random(seed.Value) : new Random(); }
+    public Screen Screen { get; private set; } = Screen.Main;
+    public Combat Combat { get; } = new();
+    public int Stage { get; private set; }
+    public int First { get; private set; } = 1;
+    public int Second { get; private set; } = 1;
+    public bool Rolling { get; private set; }
+    public bool Revealed { get; private set; }
+    public double Remaining { get; private set; }
+    public int[] Stats { get; } = new int[4];
+    public string StageName => new[] { "1P 공격력", "2P 공격력", "1P 최대 체력", "2P 최대 체력" }[Stage];
+    public void Restart()
+    {
+        Array.Clear(Stats); Stage = 0; First = Second = 1;
+        Remaining = 0; Rolling = Revealed = false;
+        Combat.Reset(0, 0, 0, 0); Screen = Screen.Dice;
+    }
+    public void Action()
+    {
+        if (Screen is Screen.Main or Screen.Result) { Restart(); return; }
+        if (Screen != Screen.Dice || Rolling) return;
+        if (!Revealed) { Rolling = true; Remaining = GameBalance.DiceDuration; return; }
+        if (Stage < 3) { Stage++; Revealed = false; First = Second = 1; }
+        else
+        {
+            Combat.Reset(Stats[0], Stats[1], Stats[2], Stats[3]);
+            Screen = Screen.Countdown; Remaining = GameBalance.Countdown;
+        }
+    }
+    public void Step(PlayerCommand a = default, PlayerCommand b = default)
+    {
+        if (Screen == Screen.Dice && Rolling)
+        {
+            Remaining -= GameBalance.Step;
+            if (Remaining <= 1e-8)
+            {
+                First = random.Next(1, 7); Second = random.Next(1, 7);
+                Stats[Stage] = Stage < 2 ? GameBalance.AttackStat(First, Second) : GameBalance.HealthStat(First, Second);
+                Rolling = false; Revealed = true;
+            }
+        }
+        else if (Screen == Screen.Countdown)
+        {
+            Remaining -= GameBalance.Step;
+            if (Remaining <= 1e-8) Screen = Screen.Battle;
+        }
+        else if (Screen == Screen.Battle)
+        {
+            Combat.Step(a, b);
+            if (Combat.Result.Length != 0) Screen = Screen.Result;
+        }
+    }
+}
+// 렌더링 주기와 무관한 120 Hz 물리. 장시간 정지 뒤에는 최대 .1초만 처리.
+public sealed class FixedClock
+{
+    private double accumulator;
+    public void Reset() => accumulator = 0;
+    public void Advance(double seconds, Action step)
+    {
+        accumulator += Math.Clamp(seconds, 0, GameBalance.MaxElapsed);
+        while (accumulator + 1e-10 >= GameBalance.Step)
+        { accumulator -= GameBalance.Step; step(); }
+    }
+}

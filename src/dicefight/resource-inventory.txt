@@ -1,0 +1,163 @@
+bcakground\battleground.png`t1672x941
+bcakground\diceground.png`t1672x940
+bcakground\mainground.png`t1672x941
+dice\faces\face_1.png`t296x296
+dice\faces\face_2.png`t295x296
+dice\faces\face_3.png`t296x296
+dice\faces\face_4.png`t296x296
+dice\faces\face_5.png`t295x296
+dice\faces\face_6.png`t296x296
+dice\rotation\rotation_01.png`t362x362
+dice\rotation\rotation_02.png`t362x362
+dice\rotation\rotation_03.png`t362x362
+dice\rotation\rotation_04.png`t362x362
+dice\rotation\rotation_05.png`t362x362
+dice\rotation\rotation_06.png`t362x362
+dice\rotation\rotation_07.png`t362x362
+dice\rotation\rotation_08.png`t362x362
+dice\rotation\rotation_09.png`t362x362
+dice\rotation\rotation_10.png`t362x362
+dice\rotation\rotation_11.png`t362x362
+dice\rotation\rotation_12.png`t362x362
+logo\bluewin.png`t2172x724
+logo\gamestart.png`t1986x792
+logo\redwin.png`t2172x724
+logo\title.png`t1536x1024
+team blue\01_idle\frame_01.png`t362x724
+team blue\01_idle\frame_02.png`t362x724
+team blue\01_idle\frame_03.png`t362x724
+team blue\01_idle\frame_04.png`t362x724
+team blue\01_idle\frame_05.png`t362x724
+team blue\01_idle\frame_06.png`t362x724
+team blue\02_move_right\frame_01.png`t181x181
+team blue\02_move_right\frame_02.png`t181x181
+team blue\02_move_right\frame_03.png`t181x181
+team blue\02_move_right\frame_04.png`t181x181
+team blue\02_move_right\frame_05.png`t181x181
+team blue\02_move_right\frame_06.png`t181x181
+team blue\03_move_left\frame_01.png`t181x181
+team blue\03_move_left\frame_02.png`t181x181
+team blue\03_move_left\frame_03.png`t181x181
+team blue\03_move_left\frame_04.png`t181x181
+team blue\03_move_left\frame_05.png`t181x181
+team blue\03_move_left\frame_06.png`t181x181
+team blue\04_attack_middle\frame_01.png`t181x181
+team blue\04_attack_middle\frame_02.png`t181x181
+team blue\04_attack_middle\frame_03.png`t181x181
+team blue\04_attack_middle\frame_04.png`t181x181
+team blue\04_attack_middle\frame_05.png`t181x181
+team blue\04_attack_middle\frame_06.png`t181x181
+team blue\05_attack_high\frame_01.png`t181x181
+team blue\05_attack_high\frame_02.png`t181x181
+team blue\05_attack_high\frame_03.png`t181x181
+team blue\05_attack_high\frame_04.png`t181x181
+team blue\05_attack_high\frame_05.png`t181x181
+team blue\05_attack_high\frame_06.png`t181x181
+team blue\06_attack_low\frame_01.png`t181x181
+team blue\06_attack_low\frame_02.png`t181x181
+team blue\06_attack_low\frame_03.png`t181x181
+team blue\06_attack_low\frame_04.png`t181x181
+team blue\06_attack_low\frame_05.png`t181x181
+team blue\06_attack_low\frame_06.png`t181x181
+team blue\07_jump\frame_01.png`t181x181
+team blue\07_jump\frame_02.png`t181x181
+team blue\07_jump\frame_03.png`t181x181
+team blue\07_jump\frame_04.png`t181x181
+team blue\07_jump\frame_05.png`t181x181
+team blue\07_jump\frame_06.png`t181x181
+team blue\08_duck\frame_01.png`t181x181
+team blue\08_duck\frame_02.png`t181x181
+team blue\08_duck\frame_03.png`t181x181
+team blue\08_duck\frame_04.png`t181x181
+team blue\08_duck\frame_05.png`t181x181
+team blue\08_duck\frame_06.png`t181x181
+team blue\09_ground_hit\frame_01.png`t362x724
+team blue\09_ground_hit\frame_02.png`t362x724
+team blue\09_ground_hit\frame_03.png`t362x724
+team blue\09_ground_hit\frame_04.png`t362x724
+team blue\09_ground_hit\frame_05.png`t362x724
+team blue\09_ground_hit\frame_06.png`t362x724
+team blue\09_ground_hit\sheet.png`t2172x724
+team blue\10_air_hit\frame_01.png`t362x724
+team blue\10_air_hit\frame_02.png`t362x724
+team blue\10_air_hit\frame_03.png`t362x724
+team blue\10_air_hit\frame_04.png`t362x724
+team blue\10_air_hit\frame_05.png`t362x724
+team blue\10_air_hit\frame_06.png`t362x724
+team blue\10_air_hit\sheet.png`t2172x724
+team blue\11_defeat\frame_01.png`t512x635
+team blue\11_defeat\frame_02.png`t512x635
+team blue\11_defeat\frame_03.png`t512x635
+team blue\11_defeat\frame_04.png`t512x389
+team blue\11_defeat\frame_05.png`t512x389
+team blue\11_defeat\frame_06.png`t512x389
+team blue\11_defeat\sheet.png`t1536x1024
+team red\01_idle\frame_01.png`t362x724
+team red\01_idle\frame_02.png`t362x724
+team red\01_idle\frame_03.png`t362x724
+team red\01_idle\frame_04.png`t362x724
+team red\01_idle\frame_05.png`t362x724
+team red\01_idle\frame_06.png`t362x724
+team red\02_move_right\frame_01.png`t181x181
+team red\02_move_right\frame_02.png`t181x181
+team red\02_move_right\frame_03.png`t181x181
+team red\02_move_right\frame_04.png`t181x181
+team red\02_move_right\frame_05.png`t181x181
+team red\02_move_right\frame_06.png`t181x181
+team red\03_move_left\frame_01.png`t181x181
+team red\03_move_left\frame_02.png`t181x181
+team red\03_move_left\frame_03.png`t181x181
+team red\03_move_left\frame_04.png`t181x181
+team red\03_move_left\frame_05.png`t181x181
+team red\03_move_left\frame_06.png`t181x181
+team red\04_attack_middle\frame_01.png`t181x181
+team red\04_attack_middle\frame_02.png`t181x181
+team red\04_attack_middle\frame_03.png`t181x181
+team red\04_attack_middle\frame_04.png`t181x181
+team red\04_attack_middle\frame_05.png`t181x181
+team red\04_attack_middle\frame_06.png`t181x181
+team red\05_attack_high\frame_01.png`t181x181
+team red\05_attack_high\frame_02.png`t181x181
+team red\05_attack_high\frame_03.png`t181x181
+team red\05_attack_high\frame_04.png`t181x181
+team red\05_attack_high\frame_05.png`t181x181
+team red\05_attack_high\frame_06.png`t181x181
+team red\06_attack_low\frame_01.png`t181x181
+team red\06_attack_low\frame_02.png`t181x181
+team red\06_attack_low\frame_03.png`t181x181
+team red\06_attack_low\frame_04.png`t181x181
+team red\06_attack_low\frame_05.png`t181x181
+team red\06_attack_low\frame_06.png`t181x181
+team red\07_jump\frame_01.png`t181x181
+team red\07_jump\frame_02.png`t181x181
+team red\07_jump\frame_03.png`t181x181
+team red\07_jump\frame_04.png`t181x181
+team red\07_jump\frame_05.png`t181x181
+team red\07_jump\frame_06.png`t181x181
+team red\08_duck\frame_01.png`t181x181
+team red\08_duck\frame_02.png`t181x181
+team red\08_duck\frame_03.png`t181x181
+team red\08_duck\frame_04.png`t181x181
+team red\08_duck\frame_05.png`t181x181
+team red\08_duck\frame_06.png`t181x181
+team red\09_ground_hit\frame_01.png`t362x724
+team red\09_ground_hit\frame_02.png`t362x724
+team red\09_ground_hit\frame_03.png`t362x724
+team red\09_ground_hit\frame_04.png`t362x724
+team red\09_ground_hit\frame_05.png`t362x724
+team red\09_ground_hit\frame_06.png`t362x724
+team red\09_ground_hit\sheet.png`t2172x724
+team red\10_air_hit\frame_01.png`t362x724
+team red\10_air_hit\frame_02.png`t362x724
+team red\10_air_hit\frame_03.png`t362x724
+team red\10_air_hit\frame_04.png`t362x724
+team red\10_air_hit\frame_05.png`t362x724
+team red\10_air_hit\frame_06.png`t362x724
+team red\10_air_hit\sheet.png`t2172x724
+team red\11_defeat\frame_01.png`t512x635
+team red\11_defeat\frame_02.png`t512x635
+team red\11_defeat\frame_03.png`t512x635
+team red\11_defeat\frame_04.png`t512x389
+team red\11_defeat\frame_05.png`t512x389
+team red\11_defeat\frame_06.png`t512x389
+team red\11_defeat\sheet.png`t1536x1024

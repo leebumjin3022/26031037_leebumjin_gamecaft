@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UseWindowsForms>True</UseWindowsForms>
+    <StartupObject>dicefight.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,4 +18,6 @@
     <PackageReference Include="Vortice.XInput" Version="3.8.3" />
   </ItemGroup>
 
-</Project>
+<ItemGroup><Content Include="..\..\resource\**\*" Exclude="..\..\resource\_backup*\**\*" Link="resource\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" /></ItemGroup></Project>
+
+
