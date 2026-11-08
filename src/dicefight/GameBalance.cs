@@ -20,6 +20,17 @@ public static class GameBalance
     public static readonly bool CancelAttackOnHit = true; // 임시 정책
     public static readonly bool SimultaneousDifferentHeightTrades = true; // 같은 물리 틱 시작이면 양측 피해
     public static readonly bool DoubleKnockoutIsDraw = true; // false면 동시 KO 시 최대 체력이 높은 쪽 승리 (동률 무승부)
+    public const double DoubleTapWindow = .20;
+    public const double CastStartup = .24, CastRecovery = .28;
+    public const double SpecialCooldown = 5, SpecialHitRefund = 2.5;
+    public const float ProjectileSpeed = 510, ProjectileWidth = 58, ProjectileHeight = 44;
+    public static int SpecialDamage(int power) => (int)Math.Round(power * .8, MidpointRounding.AwayFromZero);
+    public const double DiveStartup = .08, DiveActive = .70, DiveRecovery = .22;
+    public const float DiveSpeedX = 420, DiveSpeedY = 480, DiveReach = 76;
+    public const double ChargeTime = .5;
+    public const double HeavyStartup = .16, HeavyActive = .12, HeavyRecovery = .34;
+    public const float HeavyReach = 135;
+    public static int HeavyDamage(int power) => (int)Math.Round(power * 1.5, MidpointRounding.AwayFromZero);
     public static int AttackStat(int first, int second) => 4 + first * second;
     public static int HealthStat(int first, int second) => 64 + first * second;
 }

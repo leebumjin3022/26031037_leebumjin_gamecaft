@@ -1,0 +1,1 @@
+PASS: WinForms message loop, shown window, scene rendering, graceful close.

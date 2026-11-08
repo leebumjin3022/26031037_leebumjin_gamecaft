@@ -21,7 +21,7 @@ public sealed class GameForm : Form
         DoubleBuffered = true; KeyPreview = true;
         SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.UserPaint | ControlStyles.OptimizedDoubleBuffer, true);
         timer.Tick += (_, _) => TickGame();
-        Deactivate += (_, _) => { paused = true; input.Clear(); clock.Reset(); };
+        Deactivate += (_, _) => { paused = true; input.Clear(); session.Combat.CancelInput(); clock.Reset(); };
         Activated += (_, _) => { paused = false; input.Clear(); lastTime = watch.Elapsed.TotalSeconds; };
         Shown += (_, _) => { resources.StartMusic(); lastTime = watch.Elapsed.TotalSeconds; timer.Start(); };
     }
@@ -95,18 +95,23 @@ public sealed class GameForm : Form
             DrawDie(g, 365, session.First, 0); DrawDie(g, 665, session.Second, 4);
             string result = session.Revealed ? $"{session.StageName}  {session.Stats[session.Stage]}" :
                 session.Rolling ? "주사위를 굴리는 중…" : "던지기 버튼을 눌러 주세요";
-            Label(g, result, 600, 405, 25, Color.White, true);
+            if (session.Revealed)
+            {
+                Label(g, session.Stage < 2 ? "결정된 공격력" : "결정된 최대 체력", 600, 399, 18, Color.White, true);
+                DrawNumber(g, session.Stats[session.Stage].ToString(), 600, 421, 72);
+            }
+            else Label(g, result, 600, 405, 25, Color.White, true);
             Button(g, session.Rolling ? "굴리는 중…" : session.Revealed ? session.Stage == 3 ? "경기장으로" : "다음 능력치" : "던지기", !session.Rolling);
         }
         else
         {
             using var line = new Pen(Color.FromArgb(170, 255, 255, 255), 2); g.DrawLine(line, 30, GameBalance.Floor, 1170, GameBalance.Floor);
-            DrawFighter(g, 0); DrawFighter(g, 1); DrawHitEffects(g); DrawHud(g, 0); DrawHud(g, 1);
+            DrawFighter(g, 0); DrawFighter(g, 1); DrawProjectiles(g); DrawHitEffects(g); DrawHud(g, 0); DrawHud(g, 1);
             if (session.Screen == Screen.Countdown)
             {
                 Panel(g, new(420, 240, 360, 170));
                 Label(g, "잠시 후 시작", 600, 255, 22, Color.White, true);
-                Label(g, Math.Max(1, (int)Math.Ceiling(session.Remaining)).ToString(), 600, 295, 64, Color.Gold, true);
+                DrawNumber(g, Math.Max(1, (int)Math.Ceiling(session.Remaining)).ToString(), 600, 287, 118);
             }
             if (session.Combat.Time < session.Combat.NoticeUntil)
                 Picture(g, ResourceMap.ClashImage, new(430, 175, 340, 170));
@@ -120,8 +125,8 @@ public sealed class GameForm : Form
             }
         }
         Panel(g, new(0, 644, 1200, 76));
-        Label(g, "1P  A / D 이동   Space 점프   S 웅크리기   J 공격   W+J 상단   S+J 하단", 26, 654, 16, Blue);
-        Label(g, "2P  ← / → 이동   숫자패드0 점프   ↓ 웅크리기   숫자패드. 공격   ↑+. 상단   ↓+. 하단", 26, 683, 16, Red);
+        Label(g, "1P  A / D 이동   Space 점프   S 웅크리기   J 공격   W+J 상단   S+J 하단   뒤+J 모은 후 떼기: 강공격   공중 J: 날아차기   J 두 번: 장풍", 26, 654, 14, Blue);
+        Label(g, "2P  ← / → 이동   숫자패드0 점프   ↓ 웅크리기   숫자패드. 공격   ↑+. 상단   ↓+. 하단   뒤+. 모은 후 떼기: 강공격   공중 .: 날아차기   . 두 번: 장풍", 26, 683, 14, Red);
     }
     private void DrawDie(Graphics g, int x, int value, int offset)
     {
@@ -131,16 +136,69 @@ public sealed class GameForm : Form
             g.FillRectangle(Brushes.Ivory, x, 205, 170, 170);
             Label(g, (session.Rolling ? (int)(session.Remaining * 20 + offset) % 6 + 1 : value).ToString(), x + 85, 245, 54, Color.Black, true);
         }
-        if (!session.Rolling) Label(g, value.ToString(), x + 85, 370, 18, Color.White, true);
+        if (!session.Rolling) DrawNumber(g, value.ToString(), x + 85, 363, 34);
+    }
+    // 숫자 그림은 원본 비율을 유지하고, 슬래시 등 구분자는 글꼴로 표시한다.
+    private void DrawNumber(Graphics g, string value, float centerX, float y, float height)
+    {
+        float advance = height * .60f;
+        float x = centerX - value.Length * advance / 2;
+        foreach (char character in value)
+        {
+            Bitmap? digit = char.IsAsciiDigit(character) ? resources.Get(ResourceMap.Digit(character)) : null;
+            if (digit != null)
+                g.DrawImage(digit, new RectangleF(x - height * .10f, y, height * .8f, height));
+            else Label(g, character.ToString(), x + advance / 2, y + height * .2f, height * .60f, Color.Gold, true);
+            x += advance;
+        }
+    }
+    private void DrawHealthBar(Graphics g, int player, int hp, int maxHp, RectangleF outer)
+    {
+        float ratio = Math.Clamp(hp / (float)Math.Max(1, maxHp), 0, 1);
+        var map = ResourceMap.HpInterior;
+        var inner = new RectangleF(outer.X + outer.Width * map.X, outer.Y + outer.Height * map.Y,
+            outer.Width * map.Width, outer.Height * map.Height);
+        g.FillRectangle(Brushes.Black, inner);
+        var fill = resources.Get(ResourceMap.HpFill(player));
+        if (ratio > 0)
+        {
+            float width = inner.Width * ratio;
+            float targetX = player == 0 ? inner.X : inner.Right - width;
+            if (fill != null)
+            {
+                float sourceWidth = fill.Width * ratio;
+                float sourceX = player == 0 ? 0 : fill.Width - sourceWidth;
+                g.DrawImage(fill, new RectangleF(targetX, inner.Y, width, inner.Height),
+                    new RectangleF(sourceX, 0, sourceWidth, fill.Height), GraphicsUnit.Pixel);
+            }
+            else { using var brush = new SolidBrush(player == 0 ? Blue : Red); g.FillRectangle(brush, targetX, inner.Y, width, inner.Height); }
+        }
+        if (!Picture(g, ResourceMap.HpFrame, outer))
+        { using var pen = new Pen(Color.Goldenrod, 3); g.DrawRectangle(pen, inner.X, inner.Y, inner.Width, inner.Height); }
     }
     private void DrawHud(Graphics g, int player)
     {
         var p = session.Combat.Players[player]; float x = player == 0 ? 30 : 735; Color color = player == 0 ? Blue : Red;
-        Panel(g, new(x, 25, 435, 110));
-        Label(g, $"{player + 1}P   공격력 {p.Power}", x + 18, 37, 23, color);
-        g.FillRectangle(Brushes.DimGray, x + 18, 80, 399, 24);
-        using var brush = new SolidBrush(color); g.FillRectangle(brush, x + 18, 80, 399f * p.Hp / Math.Max(1, p.MaxHp), 24);
-        Label(g, $"HP {p.Hp} / {p.MaxHp}", x + 217, 78, 17, Color.White, true);
+        Panel(g, new(x, 25, 435, 130));
+        Label(g, $"{player + 1}P   공격력", x + 18, 37, 23, color);
+        DrawNumber(g, p.Power.ToString(), x + 225, 28, 48);
+        var bar = new RectangleF(x + 8, 66, 419, 419f * 204 / 1024);
+        DrawHealthBar(g, player, p.Hp, p.MaxHp, bar);
+        DrawNumber(g, $"{p.Hp}/{p.MaxHp}", x + 217, 86, 38);
+        Panel(g,new(x+8,152,230,28));
+        Label(g,p.SpecialCooldown<=0?"장풍 준비 완료":$"장풍 대기 {p.SpecialCooldown:0.0}초",x+20,155,17,color);
+    }
+    private void DrawProjectiles(Graphics g)
+    {
+        foreach(var shot in session.Combat.Projectiles)
+        {
+            int frame=(int)((session.Combat.Time-shot.Started)*24)%ResourceMap.Frames;
+            float size=ResourceMap.ProjectileSize;
+            var saved=g.Save();g.TranslateTransform(shot.X,shot.Y);g.ScaleTransform(shot.Direction,1);
+            if(!Picture(g,ResourceMap.Projectile(shot.Owner,frame),new(-size/2,-size/2,size,size)))
+            { using var brush=new SolidBrush(shot.Owner==0?Blue:Red);g.FillEllipse(brush,-29,-22,58,44); }
+            g.Restore(saved);
+        }
     }
     private void DrawHitEffects(Graphics g)
     {
@@ -148,10 +206,10 @@ public sealed class GameForm : Form
         {
             int frame = (int)((session.Combat.Time - effect.Started) * ResourceMap.ShockwaveFps);
             if (frame < 0 || frame >= ResourceMap.ShockwaveFrames) continue;
-            float size = ResourceMap.ShockwaveSize;
+            float size = effect.Heavy ? ResourceMap.HeavyImpactSize : ResourceMap.ShockwaveSize;
             var saved = g.Save(); g.TranslateTransform(effect.X, effect.Y);
             g.ScaleTransform(effect.Direction, 1);
-            Picture(g, ResourceMap.Shockwave(frame), new(-size / 2, -size / 2, size, size));
+            Picture(g, effect.Heavy ? ResourceMap.HeavyImpact(frame) : ResourceMap.Shockwave(frame), new(-size / 2, -size / 2, size, size));
             g.Restore(saved);
         }
     }
@@ -160,7 +218,7 @@ public sealed class GameForm : Form
     private void DrawFighter(Graphics g, int player)
     {
         var p = session.Combat.Players[player]; Color color = player == 0 ? Blue : Red;
-        string state = p.Hp == 0 ? "11_defeat" : p.Stun > 0 ? (p.Grounded ? "09_ground_hit" : "10_air_hit") : p.Attack is { } atk ? atk.Height switch
+        string state = p.Hp == 0 ? "11_defeat" : p.Stun > 0 ? (p.Grounded ? "09_ground_hit" : "10_air_hit") : p.Charging ? "13_heavy_charge" : p.Attack is { Heavy: true } ? "14_heavy_attack" : p.Attack is { Dive: true } ? "15_jump_attack" : p.Attack is { Special: true } ? "16_special_cast" : p.Attack is { } atk ? atk.Height switch
         { AttackHeight.High => "05_attack_high", AttackHeight.Low => "06_attack_low", _ => "04_attack_middle" } :
             !p.Grounded ? "07_jump" : p.Crouching ? "08_duck" : p.Moving ? (p.MovingBackward ? "12_backwalk" : "02_move_right") : "01_idle";
         if (animationStates[player] != state || session.Combat.Time < animationStarts[player])
@@ -173,6 +231,10 @@ public sealed class GameForm : Form
         if (p.Hp == 0) frame = Math.Min(ResourceMap.Frames - 1,
             (int)((session.Combat.Time - session.Combat.ResultStarted) * ResourceMap.DefeatFps));
         if (p.Hp > 0 && p.Attack is { } attack) frame = Math.Min(ResourceMap.Frames - 1, (int)((session.Combat.Time - attack.Started) / (GameBalance.Startup + GameBalance.Active + GameBalance.Recovery) * ResourceMap.Frames));
+        if (p.Hp > 0 && p.Charging) frame = Math.Min(11, (int)((session.Combat.Time - p.ChargeStarted) / GameBalance.ChargeTime * 12));
+        if (p.Hp > 0 && p.Attack is { Heavy: true } heavy) frame = ResourceMap.HeavyFrame(session.Combat.Time - heavy.Started);
+        if (p.Hp > 0 && p.Attack is { Dive: true } dive) frame = ResourceMap.DiveFrame(dive, session.Combat.Time);
+        if (p.Hp > 0 && p.Attack is { Special: true } cast) frame = ResourceMap.CastFrame(session.Combat.Time - cast.Started);
         if (p.Hp > 0 && p.Crouching && p.Attack is { Height: AttackHeight.Low } lowAttack)
             frame = ResourceMap.CrouchedAttackFrame(session.Combat.Time - lowAttack.Started);
         var image = resources.Get(ResourceMap.Fighter(player, state, frame));
@@ -211,26 +273,67 @@ public sealed class GameForm : Form
     {
         Directory.CreateDirectory(directory);
         void Capture(string name) { using var bmp = new Bitmap(1200, 720); using var g = Graphics.FromImage(bmp); DrawScene(g); bmp.Save(Path.Combine(directory, name + ".png")); }
+        using (var atlas = new Bitmap(1200, 440))
+        using (var graphics = Graphics.FromImage(atlas))
+        {
+            graphics.Clear(Color.FromArgb(20, 25, 35));
+            DrawNumber(graphics, "0123456789", 600, 15, 90);
+            for (int row = 0; row < 3; row++)
+                for (int player = 0; player < 2; player++)
+                    DrawHealthBar(graphics, player, row * 50, 100, new(40 + player * 600, 130 + row * 100, 500, 99.6f));
+            atlas.Save(Path.Combine(directory, "00-ui-numbers-health.png"));
+        }
         Capture("01-main"); session.Action(); Capture("02-dice");
         for (int stage = 0; stage < 4; stage++) { session.Action(); for (int n = 0; n < 140; n++) session.Step(); Capture($"03-result-{stage}"); session.Action(); }
         Capture("04-countdown"); for (int n = 0; n < 361; n++) session.Step(); Capture("05-battle"); session.Step(new(Crouch:true), new(Crouch:true)); Capture("05-crouch-start"); for(int n=0;n<45;n++) session.Step(new(Crouch:true),new(Crouch:true)); Capture("05-crouch");
         session.Step(new(Attack:true, Height:AttackHeight.Low, Crouch:true),new(Crouch:true)); Capture("05-duck-attack-start");
-        for(int n=0;n<24;n++)session.Step(new(Crouch:true),new(Crouch:true)); Capture("05-duck-attack-hit");
+        for(int n=0;n<48;n++)session.Step(new(Crouch:true),new(Crouch:true)); Capture("05-duck-attack-hit");
         for(int n=0;n<36;n++)session.Step(new(Crouch:true),new(Crouch:true)); Capture("05-duck-attack-recovery");
         for(int n=0;n<20;n++)session.Step(new(Crouch:true),new(Crouch:true)); Capture("05-duck-attack-finished"); session.Step();
         session.Step(new(Jump:true),default); for(int n=0;n<25;n++) session.Step(); Capture("05-jump"); for(int n=0;n<110;n++) session.Step();
         session.Combat.Players[0].X = 500; session.Combat.Players[1].X = 600;
         session.Step(new(Attack:true), new(Attack:true));
-        for (int n = 0; n < 20; n++) session.Step(); Capture("05-clash");
+        for (int n = 0; n < 48; n++) session.Step(); Capture("05-clash");
         session.Combat.Reset(8, 8, 100, 100);
         session.Combat.Players[0].X = 500; session.Combat.Players[1].X = 600;
         session.Step(new(Attack:true), default);
-        for (int n = 0; n < 24; n++) session.Step(); Capture("05-hit");
+        for (int n = 0; n < 48; n++) session.Step(); Capture("05-hit");
         for (int n = 0; n < 80; n++) session.Step(); Capture("05-effect-ended");
         session.Combat.Reset(8, 8, 100, 100);
         session.Combat.Players[0].X = 500; session.Combat.Players[1].X = 600;
+        session.Combat.Reset(7, 13, 100, 100);
+        session.Combat.Players[0].X = 500; session.Combat.Players[1].X = 660;
+        session.Step(new(Move: -1, Attack: true, AttackHeld: true), default);
+        for (int n = 0; n < 65; n++) session.Step(new(AttackHeld: true), default);
+        Capture("08-heavy-charge"); session.Step();
+        for (int n = 0; n < 24; n++) session.Step(); Capture("09-heavy-impact");
+        session.Combat.Reset(8, 8, 100, 100);
+        session.Combat.Players[0].X = 500; session.Combat.Players[1].X = 600;
+        session.Combat.Reset(7, 13, 100, 100);
+        session.Combat.Players[0].X = 400; session.Combat.Players[1].X = 850;
+        session.Step(new(Jump:true), default);
+        for (int n=0;n<28;n++) session.Step();
+        session.Step(new(Attack:true), default);
+        for (int n=0;n<12;n++) session.Step(); Capture("10-dive-flight");
+        for (int n=0;n<16;n++) session.Step(); Capture("11-dive-landing");
+        session.Combat.Reset(7, 13, 100, 100);
+        session.Combat.Players[0].X = 500; session.Combat.Players[0].Y = 430; session.Combat.Players[1].X = 600;
+        session.Step(new(Attack:true),default);
+        for (int n=0;n<12;n++) session.Step(); Capture("12-dive-hit");
+        session.Combat.Reset(8, 8, 100, 100);
+        session.Combat.Players[0].X = 500; session.Combat.Players[1].X = 600;
+        session.Combat.Reset(7,13,100,100);
+        session.Combat.Players[0].X=350;session.Combat.Players[1].X=950;
+        session.Step(new(Attack:true),default);for(int n=0;n<10;n++)session.Step();session.Step(new(Attack:true),default);
+        for(int n=0;n<46;n++)session.Step();Capture("13-projectile-blue");
+        for(int n=0;n<145;n++)session.Step();Capture("14-projectile-hit-refund");
+        session.Combat.Reset(7,13,100,100);
+        session.Step(default,new(Attack:true));for(int n=0;n<10;n++)session.Step();session.Step(default,new(Attack:true));
+        for(int n=0;n<46;n++)session.Step();Capture("15-projectile-red");
+        session.Combat.Reset(8,8,100,100);
+        session.Combat.Players[0].X=500;session.Combat.Players[1].X=600;
         session.Combat.Players[1].Hp = 1;
-        session.Step(new(Attack: true), default); for (int n = 0; n < 25; n++) session.Step(); Capture("06-defeat-start");
+        session.Step(new(Attack: true), default); for (int n = 0; n < 50; n++) session.Step(); Capture("06-defeat-start");
         for (int n = 0; n < 75; n++) session.Step(); Capture("06-defeat-fallen");
         for (int n = 0; n < 90; n++) session.Step(); Capture("06-result");
         session.Action(); Capture("07-rematch");
@@ -241,6 +344,7 @@ public sealed class GameForm : Form
         base.Dispose(disposing);
     }
 }
+
 
 
 

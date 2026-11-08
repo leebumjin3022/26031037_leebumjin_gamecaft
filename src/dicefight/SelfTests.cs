@@ -26,7 +26,7 @@ internal static class SelfTests
         Test("양측 선공 대칭 및 승리",()=> { var a=Duel(5); a.Step(new(Attack:true),default); Wait(a); var b=Duel(5); b.Step(default,new(Attack:true)); Wait(b); Check(a.Result=="1P 승리" && b.Result=="2P 승리"); });
         Test("사거리 밖 피해/상쇄 없음",()=> { var c=Duel(); c.Players[1].X=950; c.Step(new(Attack:true),new(Attack:true)); Wait(c); Check(c.Players.All(p=>p.Hp==72) && c.Notice==""); });
         Test("한 공격 중복 피해 없음",()=> { var c=Duel(); c.Step(new(Attack:true),default); Wait(c,100); Check(c.Players[1].Hp==65); });
-        Test("공중공격/이단점프 차단과 착지",()=> { var c=Duel(); c.Step(new(Jump:true),default); float vy=c.Players[0].VelocityY; c.Step(new(Jump:true,Attack:true),default); Check(c.Players[0].Attack==null && c.Players[0].VelocityY>vy); Wait(c,(int)Math.Ceiling(2 * GameBalance.JumpSpeed / GameBalance.Gravity / GameBalance.Step) + 2); Check(c.Players[0].Grounded); });
+        Test("이단점프 차단과 착지",()=> { var c=Duel(); c.Step(new(Jump:true),default); float vy=c.Players[0].VelocityY; c.Step(new(Jump:true),default); Check(c.Players[0].Attack==null && c.Players[0].VelocityY>vy); Wait(c,(int)Math.Ceiling(2 * GameBalance.JumpSpeed / GameBalance.Gravity / GameBalance.Step) + 2); Check(c.Players[0].Grounded); });
         Test("점프 공격영역 회피",()=> { var c=Duel(); c.Players[1].Y=350; c.Step(new(Attack:true,Height:AttackHeight.Low),default); Wait(c,20); Check(c.Players[1].Hp==72); });
         Test("상대 뛰어넘기/자동 방향",()=> { var c=Duel(); c.Step(new(Move:1,Jump:true),default); for(int n=0;n<95;n++) c.Step(new(Move:1),default); Check(c.Players[0].X>c.Players[1].X && c.Players[0].Facing==-1 && c.Players[1].Facing==1); });
         Test("동시 이동/경계",()=> { var c=Duel(); for(int n=0;n<1000;n++) c.Step(new(Move:-1),new(Move:1)); Check(c.Players[0].X==GameBalance.Left && c.Players[1].X==GameBalance.Right); });
@@ -83,7 +83,7 @@ internal static class SelfTests
             for(int i=0;i<4;i++){s.Action(); for(int n=0;n<140;n++)s.Step(); s.Action();}
             for(int n=0;n<361;n++)s.Step();
             s.Combat.Players[0].X=500; s.Combat.Players[1].X=600; s.Combat.Players[1].Hp=1;
-            s.Step(new(Attack:true),default); for(int n=0;n<180;n++)s.Step(); Check(s.Screen==Screen.Result);
+            s.Step(new(Attack:true),default); for(int n=0;n<230;n++)s.Step(); Check(s.Screen==Screen.Result);
             s.Action(); Check(s.Screen==Screen.Main && s.Stats.All(x=>x==0) && s.Combat.HitEffects.Count==0);
             s.Action(); Check(s.Screen==Screen.Dice && s.Stage==0);
         });
@@ -118,6 +118,9 @@ internal static class SelfTests
             for(int n=0;n<140;n++){c.Step(default,default);top=Math.Min(top,c.Players[0].Y);}
             Check(GameBalance.Floor-top is >215 and <230 && c.Players[0].Grounded);
         });
+        failed += HeavyAttackTests.Run(report);
+        failed += DiveAttackTests.Run(report);
+        failed += ProjectileTests.Run(report);
         report.Add($"총 {report.Count}개 / 실패 {failed}개"); File.WriteAllLines(Path.Combine(AppContext.BaseDirectory,"self-test-results.txt"),report); return failed==0?0:1;
     }
 }

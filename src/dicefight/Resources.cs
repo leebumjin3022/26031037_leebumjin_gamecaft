@@ -28,6 +28,31 @@ public static class ResourceMap
         return (int)(seconds * IdleFramesPerSecond) % Frames;
     }
     public static int WalkFrame(double distance) => (int)(distance / WalkCycleDistance * Frames) % Frames;
+    public static string Digit(char digit) => $"ui/numbers/{digit}.png";
+    public const string HpFrame = "ui/health/hp_frame.png";
+    public static string HpFill(int player) => player == 0 ? "ui/health/hp_fill_blue.png" : "ui/health/hp_fill_red.png";
+    public static readonly RectangleF HpInterior = new(64f / 1024, 48f / 204, 896f / 1024, 112f / 204);
+    public const float HeavyImpactSize = 185;
+    public static string HeavyImpact(int frame) => $"effects/heavy_impact/frame_{frame + 1:00}.png";
+    public static int HeavyFrame(double age)
+    {
+        if (age < GameBalance.HeavyStartup) return Math.Min(3, (int)(age / GameBalance.HeavyStartup * 4));
+        if (age < GameBalance.HeavyStartup + GameBalance.HeavyActive)
+            return 4 + Math.Min(2, (int)((age - GameBalance.HeavyStartup) / GameBalance.HeavyActive * 3));
+        return 7 + Math.Min(4, (int)((age - GameBalance.HeavyStartup - GameBalance.HeavyActive) / GameBalance.HeavyRecovery * 5));
+    }
+    public static int DiveFrame(AttackState attack, double time)
+    {
+        double age = Math.Max(0, time - attack.Started);
+        if (attack.LandedAt >= 0)
+            return 9 + Math.Min(2, (int)((time - attack.LandedAt) / attack.Recovery * 3));
+        return age < attack.Startup ? Math.Min(2, (int)(age / attack.Startup * 3)) : Math.Min(8, 3 + (int)((age - attack.Startup) * 18));
+    }
+    public const float ProjectileSize=100;
+    public static string Projectile(int owner,int frame) => $"effects/projectile_{(owner==0?"blue":"red")}/frame_{frame+1:00}.png";
+    public static int CastFrame(double age) => age<GameBalance.CastStartup
+        ? Math.Min(5,(int)(age/GameBalance.CastStartup*6))
+        : 6+Math.Min(5,(int)((age-GameBalance.CastStartup)/GameBalance.CastRecovery*6));
     public const string ClashImage = "logo/cancel.png";
     public const int ShockwaveFrames = 12;
     public const double ShockwaveFps = 32;
@@ -93,6 +118,7 @@ public sealed class Resources : IDisposable
         foreach (var item in images.Values) item?.Dispose();
     }
 }
+
 
 
 

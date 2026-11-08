@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dicefight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e540d22b308cced5dc8ea1d6b8338a63a20da10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef3af7fe329fe6bb0dbf04f81c09a3656e744ecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("dicefight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dicefight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

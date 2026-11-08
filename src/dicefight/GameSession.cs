@@ -57,7 +57,7 @@ public sealed class GameSession
         else if (Screen == Screen.Result) Combat.Step(default, default); // KO 후에도 이펙트는 끝까지 재생
         else if (Screen == Screen.Battle)
         {
-            Combat.Step(a, b);
+            Combat.StepInput(a, b);
             if (Combat.Result.Length != 0) Screen = Screen.Result;
         }
     }

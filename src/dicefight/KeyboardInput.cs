@@ -20,7 +20,7 @@ public sealed class KeyboardInput
         int jump = player == 0 ? 0x39 : Numpad0, attack = player == 0 ? 0x24 : NumpadDecimal;
         int high = player == 0 ? 0x11 : 0x148, low = player == 0 ? 0x1f : 0x150;
         return new((Held(right) ? 1 : 0) - (Held(left) ? 1 : 0), Pressed(jump), Pressed(attack),
-            Held(high) && !Held(low) ? AttackHeight.High : Held(low) && !Held(high) ? AttackHeight.Low : AttackHeight.Middle, Held(low) && !Held(high));
+            Held(high) && !Held(low) ? AttackHeight.High : Held(low) && !Held(high) ? AttackHeight.Low : AttackHeight.Middle, Held(low) && !Held(high), AttackHeld: Held(attack));
     }
 }
 

@@ -1,0 +1,90 @@
+[
+  {
+    "Motion": "effects\\heavy_impact",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "effects\\projectile_blue",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "effects\\projectile_red",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team blue\\13_heavy_charge",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team blue\\14_heavy_attack",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team blue\\15_jump_attack",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team blue\\16_special_cast",
+    "Frames": 12,
+    "UniqueFrames": 11,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team red\\13_heavy_charge",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team red\\14_heavy_attack",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team red\\15_jump_attack",
+    "Frames": 12,
+    "UniqueFrames": 12,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  },
+  {
+    "Motion": "team red\\16_special_cast",
+    "Frames": 12,
+    "UniqueFrames": 11,
+    "Size": "512x512",
+    "Transparent": true,
+    "EdgesClear": true
+  }
+]
