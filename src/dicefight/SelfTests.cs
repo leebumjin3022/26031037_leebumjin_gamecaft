@@ -34,8 +34,8 @@ internal static class SelfTests
         Test("키 자동반복/동시입력/포커스 초기화",()=> { var k=new KeyboardInput(); k.Change(0x24,true); k.Change(0x53,true); Check(k.Read(0).Attack && k.Read(1).Attack); k.ClearEdges(); k.Change(0x24,true); Check(!k.Read(0).Attack); k.Clear(); Check(k.Read(0)==default && k.Read(1)==default); });
         Test("키패드 . / 일반 . / Delete 구분",()=> { Check(KeyboardInput.PhysicalCode(0x53L<<16)==KeyboardInput.NumpadDecimal); Check(KeyboardInput.PhysicalCode((0x53L<<16)|(1L<<24))!=KeyboardInput.NumpadDecimal); var k=new KeyboardInput(); k.Change(0x34,true); Check(!k.Read(1).Attack); });
         Test("30/60/144 FPS 동일 물리/긴 정지 제한",()=> { int Ticks(int fps) { int n=0; var clock=new FixedClock(); for(int i=0;i<fps*2;i++) clock.Advance(1.0/fps,()=>n++); return n; } Check(Ticks(30)==240 && Ticks(60)==240 && Ticks(144)==240); int ticks=0; new FixedClock().Advance(20,()=>ticks++); Check(ticks==12); });
-        Test("누락 리소스 대체",()=> { using var r=new Resources(); Check(r.Get("missing-test.png")==null && r.Missing.Count==1); });
-        Test("폼 전체 흐름 실제 렌더링",()=> { using var f=new GameForm(); f.RenderSmoke(Path.Combine(AppContext.BaseDirectory,"verification")); });
+        Test("제출 리소스 누락/불필요 파일 검사",()=> { AssetAudit.Verify(); });
+        Test("렌더링 검증 시나리오 상태",()=> { Check(SmokeScenes.Build().All(scene=>scene.Create()!=null)); });
         Test("새 점프/웅크리기 키 양측 매핑",()=> {
             foreach(int player in new[]{0,1}) {
                 var k=new KeyboardInput(); int up=player==0?0x11:0x148, down=player==0?0x1f:0x150;

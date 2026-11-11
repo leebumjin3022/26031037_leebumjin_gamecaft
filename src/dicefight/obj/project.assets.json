@@ -362,19 +362,6 @@
         "buildMultiTargeting": {
           "buildMultiTargeting/Vortice.XAudio2.props": {}
         }
-      },
-      "Vortice.XInput/3.8.3": {
-        "type": "package",
-        "compile": {
-          "lib/net9.0/Vortice.XInput.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Vortice.XInput.dll": {
-            "related": ".xml"
-          }
-        }
       }
     }
   },
@@ -846,24 +833,6 @@
         "vortice.xaudio2.3.8.3.nupkg.sha512",
         "vortice.xaudio2.nuspec"
       ]
-    },
-    "Vortice.XInput/3.8.3": {
-      "sha512": "ViuQjqlwaOvqPhmbFqnXDf4ItM7jvPFLLqtmtCP37aWwvyxQa7xuYeWQs2Oi5IEfUxfb6JZj5IRwGjxERRIoaA==",
-      "type": "package",
-      "path": "vortice.xinput/3.8.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "lib/net10.0/Vortice.XInput.dll",
-        "lib/net10.0/Vortice.XInput.xml",
-        "lib/net8.0/Vortice.XInput.dll",
-        "lib/net8.0/Vortice.XInput.xml",
-        "lib/net9.0/Vortice.XInput.dll",
-        "lib/net9.0/Vortice.XInput.xml",
-        "vortice.xinput.3.8.3.nupkg.sha512",
-        "vortice.xinput.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -872,7 +841,6 @@
       "Vortice.Direct2D1 >= 3.8.3",
       "Vortice.WinForms >= 3.8.3",
       "Vortice.XAudio2 >= 3.8.3",
-      "Vortice.XInput >= 3.8.3",
       "glc2dcsharp >= 0.1.0.8"
     ]
   },
@@ -934,10 +902,6 @@
             "version": "[3.8.3, )"
           },
           "Vortice.XAudio2": {
-            "target": "Package",
-            "version": "[3.8.3, )"
-          },
-          "Vortice.XInput": {
             "target": "Package",
             "version": "[3.8.3, )"
           },

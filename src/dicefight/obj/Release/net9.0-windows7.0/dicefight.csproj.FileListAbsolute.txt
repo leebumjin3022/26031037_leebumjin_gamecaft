@@ -20,8 +20,56 @@ C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefi
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\dice\rotation\rotation_10.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\dice\rotation\rotation_11.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\dice\rotation\rotation_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\bluewin.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\gamestart.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\cancel.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\redwin.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\title.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_01.png
@@ -30,138 +78,364 @@ C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefi
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_07.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\sheet.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\sheet.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\sheet.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_07.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\sheet.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\sheet.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_12.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_01.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_02.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_03.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_04.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_05.png
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\sheet.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_01.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_02.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_03.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_04.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_05.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_06.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_07.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_08.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_09.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_10.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_11.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_12.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\health\hp_fill_blue.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\health\hp_fill_red.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\health\hp_frame.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\0.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\1.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\2.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\3.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\4.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\5.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\6.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\7.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\8.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\9.png
+C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\assets.txt
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\dicefight.exe
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\dicefight.deps.json
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\dicefight.runtimeconfig.json
@@ -185,7 +459,6 @@ C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefi
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\Vortice.Mathematics.dll
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\Vortice.WinForms.dll
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\Vortice.XAudio2.dll
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\Vortice.XInput.dll
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\obj\Release\net9.0-windows7.0\dicefight.csproj.AssemblyReference.cache
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\obj\Release\net9.0-windows7.0\dicefight.GeneratedMSBuildEditorConfig.editorconfig
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\obj\Release\net9.0-windows7.0\dicefight.AssemblyInfoInputs.cache
@@ -198,364 +471,3 @@ C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefi
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\obj\Release\net9.0-windows7.0\dicefight.pdb
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\obj\Release\net9.0-windows7.0\dicefight.genruntimeconfig.cache
 C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\obj\Release\net9.0-windows7.0\ref\dicefight.dll
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\animation12_preview.html
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\animation12_prompts.json
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ANIMATION_12_README.md
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\shockwave\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\cancel.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\effects\shockwave\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\effects\shockwave\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\effects\shockwave\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\effects\shockwave\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\effects\shockwave\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\logo\effects\shockwave\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\01_idle\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\02_move_right\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\03_move_left\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\04_attack_middle\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\05_attack_high\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\06_attack_low\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\07_jump\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\08_duck\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\09_ground_hit\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\10_air_hit\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\11_defeat\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\12_backwalk\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\01_idle\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\02_move_right\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\03_move_left\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\04_attack_middle\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\05_attack_high\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\06_attack_low\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\07_jump\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\08_duck\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\09_ground_hit\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\10_air_hit\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\11_defeat\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\12_backwalk\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\health\hp_fill_blue.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\health\hp_fill_red.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\health\hp_frame.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\0.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\1.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\2.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\3.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\4.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\5.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\6.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\7.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\8.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\numbers\9.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\preview.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\prompts.json
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\ui\README.md
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\heavy_impact\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_blue\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\effects\projectile_red\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\heavy_dynamic_v2_prompts.json
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\new_attacks_preview.html
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\new_attacks_prompts.json
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\new_attacks_README.md
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\new_attacks_validation.json
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\13_heavy_charge\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\14_heavy_attack\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\15_jump_attack\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team blue\16_special_cast\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\13_heavy_charge\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\14_heavy_attack\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\15_jump_attack\sheet.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_01.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_02.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_03.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_04.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_05.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_06.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_07.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_08.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_09.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_10.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_11.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\frame_12.png
-C:\이범진\26031037_leebumjim_Gamecraft\26031037_leebumjin_gamecaft\src\dicefight\bin\Release\net9.0-windows7.0\resource\team red\16_special_cast\sheet.png

@@ -1,4 +1,4 @@
-﻿// -------------------------------------------------------------------------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------
 // Author: 3dapi (https://github.com/3dapi)
 // -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +32,8 @@ class G2AudioContext : IDisposable
 			}
 			catch
 			{
-				masteringVoice?.Dispose();
+				masteringVoice?.DestroyVoice();
+                masteringVoice?.Dispose();
 				audio?.Dispose();
 				throw;
 			}
@@ -42,7 +43,8 @@ class G2AudioContext : IDisposable
 
 	public void Dispose()
 	{
-		MasteringVoice?.Dispose();
+		MasteringVoice?.DestroyVoice();
+        MasteringVoice?.Dispose();
 		Audio?.Dispose();
 		Instance = null;
 	}

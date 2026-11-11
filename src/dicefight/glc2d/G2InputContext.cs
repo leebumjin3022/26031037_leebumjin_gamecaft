@@ -1,4 +1,4 @@
-﻿// -------------------------------------------------------------------------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------
 // Author: 3dapi (https://github.com/3dapi)
 // -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,11 +33,16 @@ class G2InputContext : IDisposable
 	private readonly InputState[] _buttonMap = new InputState[MaxInputButton];
 
 	private readonly Form _targetForm;
+    private readonly G2PhysicalKeyboard physical;
+    public bool IsPhysicalKeyHeld(int code) => physical.IsHeld(code);
+    public bool IsPhysicalKeyDown(int code) => physical.IsDown(code);
 
 	private PointF _mousePosition;
 	private PointF _mouseOldPosition;
 	private PointF _mouseDelta;
 	private int _wheelAccumulated;
+    private readonly HashSet<MouseButtons> pendingMouseDown = [];
+    private void OnMouseDown(object? sender, MouseEventArgs e) => pendingMouseDown.Add(e.Button);
 
 	[StructLayout(LayoutKind.Sequential)]
 	private struct NativePoint
@@ -63,14 +68,19 @@ class G2InputContext : IDisposable
 		}
 		_targetForm = form ?? throw new ArgumentNullException(nameof(form));
 		_targetForm.MouseWheel += OnMouseWheel;
+        _targetForm.MouseDown += OnMouseDown;
+        physical = new G2PhysicalKeyboard(_targetForm);
 		_mouseOldPosition = _mousePosition;
 		Instance = this;
 	}
 
 	internal void Update()
 	{
-		UpdateKeyboard();
+		physical.Update();
+        UpdateKeyboard();
 		UpdateMouseButton();
+        foreach(var button in pendingMouseDown) _buttonMap[GetButtonIndex(button)] = InputState.Down;
+        pendingMouseDown.Clear();
 		UpdateMousePosition();
 		MouseWheelDelta = _wheelAccumulated;
 		_wheelAccumulated = 0;
@@ -89,7 +99,9 @@ class G2InputContext : IDisposable
 		}
 		else
 		{
-			Array.Clear(_keyCur, 0, MaxInputKey);
+			physical.Reset();
+        pendingMouseDown.Clear();
+        Array.Clear(_keyCur, 0, MaxInputKey);
 			Array.Clear(_keyMap, 0, MaxInputKey);
 		}
 	}
@@ -191,7 +203,9 @@ class G2InputContext : IDisposable
 
 	public void Reset()
 	{
-		Array.Clear(_keyCur, 0, MaxInputKey);
+		physical.Reset();
+        pendingMouseDown.Clear();
+        Array.Clear(_keyCur, 0, MaxInputKey);
 		Array.Clear(_keyOld, 0, MaxInputKey);
 		Array.Clear(_keyMap, 0, MaxInputKey);
 		Array.Clear(_buttonCur, 0, MaxInputButton);
@@ -224,7 +238,9 @@ class G2InputContext : IDisposable
 
 	public void Dispose()
 	{
-		_targetForm.MouseWheel -= OnMouseWheel;
+		physical.Dispose();
+        _targetForm.MouseWheel -= OnMouseWheel;
+        _targetForm.MouseDown -= OnMouseDown;
 		Instance = null;
 	}
 }

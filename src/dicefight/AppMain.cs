@@ -1,20 +1,23 @@
-﻿// -------------------------------------------------------------------------------------------------------------------------------------------------------------
-// Author: 3dapi (https://github.com/3dapi)
-// -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-//#define ACTIVE_GLC2DLIB
-
+namespace dicefight;
 internal static class AppMain
 {
-#if ACTIVE_GLC2DLIB
-
-	[STAThread]
-	private static void Main()
-	{
-		ApplicationConfiguration.Initialize();
-
-		using GameMain app = new();
-		app.Run();
-	}
-#endif
+    [STAThread]
+    private static int Main(string[] args)
+    {
+        ApplicationConfiguration.Initialize(); // glc2d RenderForm의 DPI/창 초기화
+        try
+        {
+            if(args.Contains("--self-test"))return SelfTests.Run();
+            using var game=new GameMain(args.Contains("--smoke"));
+            game.Run();
+            return 0;
+        }
+        catch(Exception error)
+        {
+            File.WriteAllText(Path.Combine(AppContext.BaseDirectory,"startup-error.txt"),error.ToString());
+            if(!args.Contains("--smoke") && !args.Contains("--self-test"))
+                MessageBox.Show(error.Message,"게임 실행 오류",MessageBoxButtons.OK,MessageBoxIcon.Error);
+            return 1;
+        }
+    }
 }

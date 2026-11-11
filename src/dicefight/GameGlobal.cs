@@ -1,9 +1,6 @@
-﻿// -------------------------------------------------------------------------------------------------------------------------------------------------------------
-// Author: 3dapi (https://github.com/3dapi)
-// -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-public static class GameGlobal
+namespace dicefight;
+internal static class GameGlobal
 {
-	public static readonly System.Drawing.Size ScreenSize = new(960, 640);
-	public static readonly string GameName = "Nemo .....";
+    public static readonly Size ScreenSize=new(GameBalance.Width,GameBalance.Height);
+    public const string GameName="더 다이스 파이트";
 }

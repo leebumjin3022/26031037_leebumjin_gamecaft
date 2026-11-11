@@ -5,8 +5,9 @@
     <TargetFramework>net9.0-windows7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!-- glc2d 자체의 RenderForm을 위한 의존성. 게임 화면은 Direct2D로 렌더링. -->
     <UseWindowsForms>True</UseWindowsForms>
-    <StartupObject>dicefight.Program</StartupObject>
+    <StartupObject>dicefight.AppMain</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
@@ -15,9 +16,10 @@
     <PackageReference Include="Vortice.Direct2D1" Version="3.8.3" />
     <PackageReference Include="Vortice.WinForms" Version="3.8.3" />
     <PackageReference Include="Vortice.XAudio2" Version="3.8.3" />
-    <PackageReference Include="Vortice.XInput" Version="3.8.3" />
+
   </ItemGroup>
 
-<ItemGroup><Content Include="..\..\resource\**\*" Exclude="..\..\resource\_backup*\**\*" Link="resource\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" /></ItemGroup></Project>
+<Import Project="GameAssets.props" />
+<ItemGroup><Content Include="assets.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" /></ItemGroup></Project>
 
 

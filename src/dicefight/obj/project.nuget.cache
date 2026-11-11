@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4+3IuJvZEc=",
+  "dgSpecHash": "vkkI/skP1D8=",
   "success": true,
   "projectFilePath": "C:\\이범진\\26031037_leebumjim_Gamecraft\\26031037_leebumjin_gamecaft\\src\\dicefight\\dicefight.csproj",
   "expectedPackageFiles": [
@@ -23,8 +23,7 @@
     "C:\\Users\\ds007\\.nuget\\packages\\vortice.dxgi\\3.8.3\\vortice.dxgi.3.8.3.nupkg.sha512",
     "C:\\Users\\ds007\\.nuget\\packages\\vortice.mathematics\\2.1.0\\vortice.mathematics.2.1.0.nupkg.sha512",
     "C:\\Users\\ds007\\.nuget\\packages\\vortice.winforms\\3.8.3\\vortice.winforms.3.8.3.nupkg.sha512",
-    "C:\\Users\\ds007\\.nuget\\packages\\vortice.xaudio2\\3.8.3\\vortice.xaudio2.3.8.3.nupkg.sha512",
-    "C:\\Users\\ds007\\.nuget\\packages\\vortice.xinput\\3.8.3\\vortice.xinput.3.8.3.nupkg.sha512"
+    "C:\\Users\\ds007\\.nuget\\packages\\vortice.xaudio2\\3.8.3\\vortice.xaudio2.3.8.3.nupkg.sha512"
   ],
   "logs": []
 }

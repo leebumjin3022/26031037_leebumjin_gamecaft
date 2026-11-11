@@ -1,4 +1,4 @@
-﻿// -------------------------------------------------------------------------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------
 // Author: 3dapi (https://github.com/3dapi)
 // -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,6 +17,7 @@ abstract class G2AppBase : IDisposable
 	public ID2D1HwndRenderTarget RenderTarget => _graphics.RenderTarget;
 	public IDWriteFactory DWriteFactory => _graphics.DWriteFactory;
 	public G2InputContext Input => _inputContext;
+    public bool WindowFocused => _mainForm.ContainsFocus;
 
 	public virtual System.Drawing.Size ScreenSize => new(640, 480);
 	public virtual string GameName => "G2 Game";
@@ -102,7 +103,7 @@ abstract class G2AppBase : IDisposable
 		}
 		catch (Exception ex)
 		{
-			MessageBox.Show(ex.Message, "Game Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			throw new InvalidOperationException("glc2d 실행 오류", ex);
 		}
 		_stopwatch.Stop();
 	}
@@ -144,7 +145,7 @@ abstract class G2AppBase : IDisposable
 
 		Render();
 
-		renderTarget.EndDraw();
+		renderTarget.EndDraw().CheckError();
 	}
 
 	private void MainFormResize(object? sender, EventArgs e)

@@ -12,7 +12,6 @@
           "Vortice.Direct2D1": "3.8.3",
           "Vortice.WinForms": "3.8.3",
           "Vortice.XAudio2": "3.8.3",
-          "Vortice.XInput": "3.8.3",
           "glc2dcsharp": "0.1.0.8"
         },
         "runtime": {
@@ -226,14 +225,6 @@
             "fileVersion": "3.8.3.0"
           }
         }
-      },
-      "Vortice.XInput/3.8.3": {
-        "runtime": {
-          "lib/net9.0/Vortice.XInput.dll": {
-            "assemblyVersion": "3.8.3.0",
-            "fileVersion": "3.8.3.0"
-          }
-        }
       }
     }
   },
@@ -382,13 +373,6 @@
       "sha512": "sha512-1XSd7ZkMe8KIS36HYq1rdsru2n9PyaPwNjnREH8pNnlVOSaeLpSPMCAv4hX5P8VqgfpvKhPhCiM5kQ1OrKqxpg==",
       "path": "vortice.xaudio2/3.8.3",
       "hashPath": "vortice.xaudio2.3.8.3.nupkg.sha512"
-    },
-    "Vortice.XInput/3.8.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ViuQjqlwaOvqPhmbFqnXDf4ItM7jvPFLLqtmtCP37aWwvyxQa7xuYeWQs2Oi5IEfUxfb6JZj5IRwGjxERRIoaA==",
-      "path": "vortice.xinput/3.8.3",
-      "hashPath": "vortice.xinput.3.8.3.nupkg.sha512"
     }
   }
 }

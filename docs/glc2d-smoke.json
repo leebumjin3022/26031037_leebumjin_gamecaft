@@ -1,0 +1,28 @@
+{
+  "Result": "PASS",
+  "Engine": "G2AppBase / Direct2D",
+  "Scenes": [
+    "main",
+    "dice",
+    "dice-rolling",
+    "dice-result",
+    "battle",
+    "crouch",
+    "walk",
+    "jump",
+    "heavy-charge",
+    "heavy-hit",
+    "dive",
+    "projectile-blue",
+    "projectile-red",
+    "clash",
+    "blue-win",
+    "red-win",
+    "rematch"
+  ],
+  "Frames": 62,
+  "G2TextureDraws": 1039,
+  "G2FontDraws": 548,
+  "LoadedTextures": 436,
+  "Audio": "G2Audio playing"
+}
